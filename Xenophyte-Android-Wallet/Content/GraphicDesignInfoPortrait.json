@@ -1,0 +1,152 @@
+﻿// Other
+// Big text content on Welcome
+{ "graphic_path_file": "cadre-big-text-waiting.png", "percent_position_x": 2.5, "percent_position_y": 35, "percent_width": 95, "percent_height": 40, "graphic_menu_type": "none", "graphic_name": "big-text-welcome-waiting", "graphic_event_name": "none" }
+
+//Background
+{ "graphic_path_file": "background.jpg", "percent_position_x": 0, "percent_position_y": 0, "percent_width": 100, "percent_height": 100, "graphic_menu_type": "all", "graphic_name": "background", "graphic_event_name": "none" }
+
+
+
+// Animation logo
+{ "graphic_path_file": "logo.png", "percent_position_x": 50, "percent_position_y": 50, "percent_width": 50, "percent_height": 25, "graphic_menu_type": "animation", "graphic_name": "logo-animation", "graphic_event_name": "animation" }
+
+
+//
+//
+// Menu Welcome (first initialization).
+//
+
+//Logo Create Wallet
+{ "graphic_path_file": "logo-complete.png", "percent_position_x": 20, "percent_position_y": 5, "percent_width": 60, "percent_height": 30, "graphic_menu_type": "welcome", "graphic_name": "logo-welcome-menu", "graphic_event_name": "none" }
+
+// Button Welcome Create First Wallet
+{ "graphic_path_file": "button.png", "percent_position_x": 25, "percent_position_y": 90, "percent_width": 50, "percent_height": 10, "graphic_menu_type": "welcome", "graphic_name": "button-welcome-create-wallet", "graphic_event_name": "ButtonWelcomeCreateWallet" }
+
+// Input text Welcome Create First Wallet
+{ "graphic_path_file": "input.png", "percent_position_x": 5, "percent_position_y": 75, "percent_width": 90, "percent_height": 10, "graphic_menu_type": "welcome", "graphic_name": "input-welcome-password-wallet-texture-name", "graphic_event_name": "InputWalletPasswordOnWelcome" }
+
+// Big text content on Welcome
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 2.5, "percent_position_y": 35, "percent_width": 95, "percent_height": 40, "graphic_menu_type": "welcome", "graphic_name": "big-text-welcome", "graphic_event_name": "none" }
+
+//
+//
+// Menu Password.
+//
+
+//Logo on Menu Password.
+{ "graphic_path_file": "logo-complete.png", "percent_position_x": 20, "percent_position_y": 5, "percent_width": 60, "percent_height": 30, "graphic_menu_type": "mainPassword", "graphic_name": "logo-password-menu", "graphic_event_name": "none" }
+
+// Big text content on Menu Password
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 2.5, "percent_position_y": 35, "percent_width": 95, "percent_height": 40, "graphic_menu_type": "mainPassword", "graphic_name": "big-text-menu-password", "graphic_event_name": "none" }
+
+// Button open wallet on Menu Password
+{ "graphic_path_file": "button.png", "percent_position_x": 25, "percent_position_y": 85, "percent_width": 50, "percent_height": 10, "graphic_menu_type": "mainPassword", "graphic_name": "button-menu-password-open-wallet", "graphic_event_name": "ButtonMenuPasswordOpenWallet" }
+
+// Input text on Menu Password
+{ "graphic_path_file": "input.png", "percent_position_x": 5, "percent_position_y": 75, "percent_width": 90, "percent_height": 10, "graphic_menu_type": "mainPassword", "graphic_name": "input-menu-password-open-wallet", "graphic_event_name": "InputMenuPasswordOpenWallet" }
+
+//
+//
+// Main Menu.
+//
+
+//Logo Main Menu
+{ "graphic_path_file": "logo.png", "percent_position_x": 89, "percent_position_y": 1.5, "percent_width": 10, "percent_height": 5, "graphic_menu_type": "main", "graphic_name": "logo-main-menu", "graphic_event_name": "none" }
+
+// Big text content on Main Menu
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 5, "percent_position_y": 20.31, "percent_width": 90, "percent_height": 15, "graphic_menu_type": "main", "graphic_name": "big-text-wallet-information", "graphic_event_name": "none" }
+
+// Button Show Wallet Address on Main Menu
+{ "graphic_path_file": "button.png", "percent_position_x": 22.5, "percent_position_y": 27.81, "percent_width": 55, "percent_height": 7.5, "graphic_menu_type": "main", "graphic_name": "button-show-wallet-address", "graphic_event_name": "ButtonShowWalletAddress" }
+
+//Button Send Transaction
+{ "graphic_path_file": "button.png", "percent_position_x": 5, "percent_position_y": 40, "percent_width": 90, "percent_height": 10, "graphic_menu_type": "main", "graphic_name": "button-send-transaction", "graphic_event_name": "ButtonSendTransaction" }
+
+//Button Transaction History
+{ "graphic_path_file": "button.png", "percent_position_x": 5, "percent_position_y": 55, "percent_width": 90, "percent_height": 10, "graphic_menu_type": "main", "graphic_name": "button-transaction-history", "graphic_event_name": "ButtonTransactionHistory" }
+
+//Button Official Website
+{ "graphic_path_file": "button.png", "percent_position_x": 5, "percent_position_y": 70, "percent_width": 90, "percent_height": 10, "graphic_menu_type": "main", "graphic_name": "button-official-website", "graphic_event_name": "ButtonOfficialWebsite" }
+
+//Button Exchange List
+{ "graphic_path_file": "button.png", "percent_position_x": 5, "percent_position_y": 85, "percent_width": 90, "percent_height": 10, "graphic_menu_type": "main", "graphic_name": "button-exchange-list", "graphic_event_name": "ButtonExchangeList" }
+
+//
+//
+// Send Transaction Menu.
+//
+
+//Logo Send Transaction Menu.
+{ "graphic_path_file": "logo.png", "percent_position_x": 89, "percent_position_y": 1.5, "percent_width": 10, "percent_height": 5, "graphic_menu_type": "sendTransaction", "graphic_name": "logo-send-transaction-menu", "graphic_event_name": "none" }
+
+// Button Return to Main Menu on Send Transaction Menu.
+{ "graphic_path_file": "button.png", "percent_position_x": 5, "percent_position_y": 1.5, "percent_width": 10, "percent_height": 5, "graphic_menu_type": "sendTransaction", "graphic_name": "button-return-to-main-transaction-history", "graphic_event_name": "ButtonReturnToMainMenu" }
+
+// Big text content on Send Transaction Menu.
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 5, "percent_position_y": 20.31, "percent_width": 90, "percent_height": 70, "graphic_menu_type": "sendTransaction", "graphic_name": "big-text-send-transaction", "graphic_event_name": "none" }
+
+// Button Show Wallet Address on Send Transaction Menu.
+{ "graphic_path_file": "button.png", "percent_position_x": 22.5, "percent_position_y": 30, "percent_width": 55, "percent_height": 7.5, "graphic_menu_type": "sendTransaction", "graphic_name": "button-show-wallet-address-send-transaction", "graphic_event_name": "ButtonShowWalletAddress" }
+
+// Big text content (wallet target text) on Send Transaction Menu.
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 5, "percent_position_y": 38.5, "percent_width": 90, "percent_height": 5, "graphic_menu_type": "sendTransaction", "graphic_name": "big-text-target-text-send-transaction", "graphic_event_name": "none" }
+
+// Input text wallet address target on Send Transaction Menu.
+{ "graphic_path_file": "input.png", "percent_position_x": 10, "percent_position_y": 43, "percent_width": 80, "percent_height": 6.5, "graphic_menu_type": "sendTransaction", "graphic_name": "input-wallet-address-target-send-transaction", "graphic_event_name": "InputWalletAddressTargetSendTransaction" }
+
+// Button Scan QR Code on Send Transaction Menu.
+{ "graphic_path_file": "button.png", "percent_position_x": 32.5, "percent_position_y": 49.5, "percent_width": 35, "percent_height": 5.5, "graphic_menu_type": "sendTransaction", "graphic_name": "button-scan-qr-code-send-transaction", "graphic_event_name": "ButtonScanQrCodeSendTransaction" }
+
+// Big text content (amount text) on Send Transaction Menu.
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 5, "percent_position_y": 55.5, "percent_width": 90, "percent_height": 5, "graphic_menu_type": "sendTransaction", "graphic_name": "big-text-amount-text-send-transaction", "graphic_event_name": "none" }
+
+// Input text amount selected on Send Transaction Menu.
+{ "graphic_path_file": "input.png", "percent_position_x": 10, "percent_position_y": 60, "percent_width": 80, "percent_height": 6.5, "graphic_menu_type": "sendTransaction", "graphic_name": "input-amount-selected-send-transaction", "graphic_event_name": "InputAmountSelectedSendTransaction" }
+
+// Big text content (fee text) on Send Transaction Menu.
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 5, "percent_position_y": 66.5, "percent_width": 90, "percent_height": 5, "graphic_menu_type": "sendTransaction", "graphic_name": "big-text-fee-text-send-transaction", "graphic_event_name": "none" }
+
+// Input text fee selected on Send Transaction Menu.
+{ "graphic_path_file": "input.png", "percent_position_x": 10, "percent_position_y": 71, "percent_width": 80, "percent_height": 6.5, "graphic_menu_type": "sendTransaction", "graphic_name": "input-fee-selected-send-transaction", "graphic_event_name": "InputFeeSelectedSendTransaction" }
+
+// Button Push Transaction on Send Transaction Menu.
+{ "graphic_path_file": "button.png", "percent_position_x": 22.5, "percent_position_y": 80, "percent_width": 55, "percent_height": 7.5, "graphic_menu_type": "sendTransaction", "graphic_name": "button-push-transaction-send-transaction", "graphic_event_name": "ButtonPushTransaction" }
+
+//
+//
+// Transaction History Menu.
+//
+
+//Logo on Transaction History Menu.
+{ "graphic_path_file": "logo.png", "percent_position_x": 89, "percent_position_y": 1.5, "percent_width": 10, "percent_height": 5, "graphic_menu_type": "transactionHistory", "graphic_name": "logo-transaction-history-menu", "graphic_event_name": "none" }
+
+// Button Return to Main Menu on Transaction History Menu.
+{ "graphic_path_file": "button.png", "percent_position_x": 5, "percent_position_y": 1.5, "percent_width": 10, "percent_height": 5, "graphic_menu_type": "transactionHistory", "graphic_name": "button-return-to-main-send-transaction", "graphic_event_name": "ButtonReturnToMainMenu" }
+
+// Big text content on Transaction History Menu.
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 2, "percent_position_y": 15, "percent_width": 95, "percent_height": 70, "graphic_menu_type": "transactionHistory", "graphic_name": "big-text-transaction-history", "graphic_event_name": "none" }
+
+{ "graphic_path_file": "button.png", "percent_position_x": 2, "percent_position_y": 85, "percent_width": 10, "percent_height": 7, "graphic_menu_type": "transactionHistory", "graphic_name": "button-previous-page-transaction-history", "graphic_event_name": "ButtonPreviousTransactionPage" }
+
+{ "graphic_path_file": "button.png", "percent_position_x": 87.5, "percent_position_y": 85, "percent_width": 10, "percent_height": 7, "graphic_menu_type": "transactionHistory", "graphic_name": "button-next-page-transaction-history", "graphic_event_name": "ButtonNextTransactionPage" }
+
+//
+//
+// Send Exchange Menu.
+//
+
+//Logo menu.
+{ "graphic_path_file": "logo.png", "percent_position_x": 40, "percent_position_y": 1.5, "percent_width": 20, "percent_height": 10, "graphic_menu_type": "exchangeMenu", "graphic_name": "logo-show-exchange-menu", "graphic_event_name": "none" }
+
+// Button Return to Main Menu on Send Transaction Menu.
+{ "graphic_path_file": "button.png", "percent_position_x": 5, "percent_position_y": 1.5, "percent_width": 10, "percent_height": 5, "graphic_menu_type": "exchangeMenu", "graphic_name": "button-return-to-main-exchange-menu", "graphic_event_name": "ButtonReturnToMainMenu" }
+
+// Graphic content.
+{ "graphic_path_file": "cadre-big-text.png", "percent_position_x": 5, "percent_position_y": 15, "percent_width": 90, "percent_height": 70, "graphic_menu_type": "exchangeMenu", "graphic_name": "big-text-wallet-info-exchange-menu", "graphic_event_name": "none" }
+
+// Button Show Wallet Address on Open Exchange.
+{ "graphic_path_file": "button.png", "percent_position_x": 22.5, "percent_position_y": 20, "percent_width": 55, "percent_height": 7.5, "graphic_menu_type": "exchangeMenu", "graphic_name": "button-show-birake", "graphic_event_name": "ButtonShowBirake" }
+
+{ "graphic_path_file": "button.png", "percent_position_x": 22.5, "percent_position_y": 40, "percent_width": 55, "percent_height": 7.5, "graphic_menu_type": "exchangeMenu", "graphic_name": "button-show-xeggex", "graphic_event_name": "ButtonShowXeggex" }
+
+{ "graphic_path_file": "button.png", "percent_position_x": 22.5, "percent_position_y": 60, "percent_width": 55, "percent_height": 7.5, "graphic_menu_type": "exchangeMenu", "graphic_name": "button-show-caldera", "graphic_event_name": "ButtonShowCaldera" }

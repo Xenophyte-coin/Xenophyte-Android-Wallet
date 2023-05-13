@@ -1,0 +1,8 @@
+﻿{ "graphic_path_file": "background.jpg", "percent_position_x": 0, "percent_position_y": 0, "percent_width": 100, "percent_height": 100, "graphic_menu_type": "all", "graphic_name": "background" }
+{ "graphic_path_file": "logo-complete.png", "percent_position_x": 40, "percent_position_y": 5, "percent_width": 20, "percent_height": 30, "graphic_menu_type": "all", "graphic_name": "logo-complete" }
+{ "graphic_path_file": "button.png", "percent_position_x": 25, "percent_position_y": 35, "percent_width": 65, "percent_height": 35, "graphic_menu_type": "main", "graphic_name": "button-open-wallet" }
+{ "graphic_path_file": "button.png", "percent_position_x": 25, "percent_position_y": 55, "percent_width": 65, "percent_height": 35, "graphic_menu_type": "main", "graphic_name": "button-create-wallet" }
+{ "graphic_path_file": "button.png", "percent_position_x": 25, "percent_position_y": 75, "percent_width": 65, "percent_height": 35, "graphic_menu_type": "main", "graphic_name": "button-official-website" }
+{ "graphic_path_file": "button.png", "percent_position_x": 40, "percent_position_y": 85, "percent_width": 20, "percent_height": 15, "graphic_menu_type": "welcome", "graphic_name": "button-welcome-create-wallet" }
+{ "graphic_path_file": "input.png", "percent_position_x": 5, "percent_position_y": 70, "percent_width": 90, "percent_height": 15, "graphic_menu_type": "welcome", "graphic_name": "input-welcome-password-wallet-texture-name" }
+

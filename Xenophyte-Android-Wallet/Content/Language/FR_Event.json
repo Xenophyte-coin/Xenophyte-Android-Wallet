@@ -1,0 +1,56 @@
+﻿{"language_name": "FR","language_event_enumeration_name": "password_first_initialization_title_text","language_event_content_text": "Pour la première utilisation."}
+{"language_name": "FR", "language_event_enumeration_name": "password_first_initialization_content_text", "language_event_content_text": "Lors de la premièe utilisation merci d'écrire un mot de passe (min: %r characters):"}
+{"language_name": "FR", "language_event_enumeration_name": "password_first_initialization_error_title_text", "language_event_content_text": "Erreur sur le mot de passe."}
+{"language_name": "FR", "language_event_enumeration_name": "password_first_initialization_error_content_text", "language_event_content_text": "Erreur sur le mot de passe sélectionné, le nombre de caractères doit être équivalent ou supérieur à %r caractères."}
+{"language_name": "FR", "language_event_enumeration_name": "password_first_initialization_create_wallet_error_title_text", "language_event_content_text": "Erreur le mot de passe ne peut-être vide."}
+{"language_name": "FR", "language_event_enumeration_name": "password_first_initialization_create_wallet_error_content_text", "language_event_content_text": "Erreur le mot de passe ne peut-être vide, le nombre de caractères doit être équivalent ou supérieur à %r caractères."}
+{"language_name": "FR", "language_event_enumeration_name": "custom_message_box_wait_moment", "language_event_content_text": "Merci de votre patience.."}
+{"language_name": "FR", "language_event_enumeration_name": "create_wallet_error_title_text", "language_event_content_text": "Erreur lors de la création du portefeuille."}
+{"language_name": "FR", "language_event_enumeration_name": "create_wallet_error_content_text", "language_event_content_text": "Veuillez vérifier votre connexion réseau ou réessayer plus tard.\nContactez le support technique si le problème persiste."}
+{"language_name": "FR", "language_event_enumeration_name": "create_wallet_busy_title_text", "language_event_content_text": "En attente de création d'un porte-monnaie."}
+{"language_name": "FR", "language_event_enumeration_name": "create_wallet_busy_content_text", "language_event_content_text": "Le porte-monnaie android est actuellement en attente de création d'un porte-monnaie, veuillez patienter un instant."}
+{"language_name": "FR", "language_event_enumeration_name": "create_wallet_success_title_text", "language_event_content_text": "Portefeuille créé."}
+{"language_name": "FR", "language_event_enumeration_name": "create_wallet_success_content_text", "language_event_content_text": "Votre nouveau porte-monnaie a été créé avec succès.\nAdresse du porte-monnaie : "}
+{"language_name": "FR", "language_event_enumeration_name": "password_open_wallet_title_text", "language_event_content_text": "Mot de passe de votre portefeuille."}
+{"language_name": "FR", "language_event_enumeration_name": "password_open_wallet_content_text", "language_event_content_text": "Inscrivez le mot de passe de votre portefeuille:"}
+{"language_name": "FR", "language_event_enumeration_name": "password_open_wallet_error_title_text", "language_event_content_text": "Mauvais mot de passe."}
+{"language_name": "FR", "language_event_enumeration_name": "password_open_wallet_error_content_text", "language_event_content_text": "Le mot de passe n'est pas le bon, merci de réessayer."}
+{"language_name": "FR", "language_event_enumeration_name": "password_open_wallet_success_title_text", "language_event_content_text": "Le mot de passe est valide."}
+{"language_name": "FR", "language_event_enumeration_name": "password_open_wallet_success_content_text", "language_event_content_text": "Portefeuille charger avec succès."}
+{"language_name": "FR", "language_event_enumeration_name": "current_wallet_active_balance", "language_event_content_text": "Balance: %r"}
+{"language_name": "FR", "language_event_enumeration_name": "current_wallet_pending_balance", "language_event_content_text": "En attente: %r"}
+{"language_name": "FR", "language_event_enumeration_name": "visit_official_website_title_text", "language_event_content_text": "Visiter le site officiel."}
+{"language_name": "FR", "language_event_enumeration_name": "visit_official_website_content_text", "language_event_content_text": "Pour visiter le site officiel une page va s'ouvrir\nVoulez-vous continuer?"}
+{"language_name": "FR", "language_event_enumeration_name": "message_box_dialog_choose_ok", "language_event_content_text": "Ok"}
+{"language_name": "FR", "language_event_enumeration_name": "message_box_dialog_choose_cancel", "language_event_content_text": "Annuler"}
+{"language_name": "FR", "language_event_enumeration_name": "message_box_dialog_choose_yes", "language_event_content_text": "Oui"}
+{"language_name": "FR", "language_event_enumeration_name": "message_box_dialog_choose_no", "language_event_content_text": "Non"}
+{"language_name" : "FR", "language_event_enumeration_name" : "show_wallet_address_title_text", "language_event_content_text" : "Votre adresse de portefeuille :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "show_wallet_address_content_text", "language_event_content_text" : "%r \nVoulez-vous le copier dans votre presse-papiers ?"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_select_wallet_address_target_title_text", "language_event_content_text" : "Adresse du portefeuille cible :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_select_wallet_address_target_content_text", "language_event_content_text" : "Entrez l'adresse du portefeuille à cibler :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_select_wallet_address_target_error_title_text", "language_event_content_text" : "Mauvaise adresse de portefeuille cible :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_select_wallet_address_target_error_content_text", "language_event_content_text" : "La cible de l'adresse du portefeuille semble incorrecte, voulez-vous réessayer ?"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_amount_title_text", "language_event_content_text" : "Montant :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_amount_content_text", "language_event_content_text" : "Veuillez saisir le montant à envoyer à votre cible.\nVotre solde actuel est de %a %r :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_amount_error_title_text", "language_event_content_text" : "Le montant saisi est incorrect :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_amount_error_content_text", "language_event_content_text" : "Le montant saisi est erroné ou dépasse votre solde total, veuillez réessayer."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_fee_title_text", "language_event_content_text" : "Frais :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_fee_content_text", "language_event_content_text" : "Veuillez saisir les frais à envoyer à votre cible.\nVotre solde actuel est de %a %r :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_fee_error_title_text", "language_event_content_text" : "Les frais d'entrée sont incorrects :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_fee_error_content_text", "language_event_content_text" : "Les frais d'entrée sont incorrects ou dépassent votre solde total, veuillez réessayer."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_mandatory_fee_error_title_text", "language_event_content_text" : "Frais d'entrée inférieurs au minimum :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_mandatory_fee_error_content_text", "language_event_content_text" : "Les frais d'entrée sont inférieurs au minimum de %f %r. Voulez-vous en saisir un autre ?"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_push_title_text", "language_event_content_text" : "Confirmez votre demande de transaction :"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_push_content_text", "language_event_content_text" : "Êtes-vous sûr d'envoyer une transaction à votre cible %r \nAvec un montant de %a et des frais sélectionnés de %f"}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_result_refused_title_text", "language_event_content_text" : "Transaction refusée."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_result_busy_title_text", "language_event_content_text" : "Votre porte-monnaie est occupé."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_result_invalid_target_title_text", "language_event_content_text" : "Adresse cible non valide."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_result_accepted_title_text", "language_event_content_text" : "Transaction acceptée."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_result_refused_content_text", "language_event_content_text" : "Votre tentative d'envoyer une transaction a été refusée."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_result_busy_content_text", "language_event_content_text" : "Il semble que votre portefeuille soit occupé, veuillez réessayer plus tard."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_result_invalid_target_content_text", "language_event_content_text" : "L'adresse du portefeuille cible %r\nis invalide."}
+{"language_name" : "FR", "language_event_enumeration_name" : "send_transaction_result_accepted_content_text", "language_event_content_text" : "Votre transaction a été acceptée.\nHash : %r"}
+{"language_name" : "FR", "language_event_enumeration_name" : "transaction_history_received_content_text", "language_event_content_text" : "Reçu de : "}
+{"language_name" : "FR", "language_event_enumeration_name" : "transaction_history_send_content_text", "language_event_content_text" : "Envoyé à : "}
+{"language_name" : "FR", "language_event_enumeration_name" : "loading_text_menu_content_text", "language_event_content_text" : "Veuillez patienter un instant svp..."}

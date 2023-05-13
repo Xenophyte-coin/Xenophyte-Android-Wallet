@@ -1,0 +1,56 @@
+﻿{"language_name": "US", "language_event_enumeration_name": "password_first_initialization_title_text","language_event_content_text": "First Initialization." }
+{"language_name": "US", "language_event_enumeration_name": "password_first_initialization_content_text", "language_event_content_text": "For the first initialization please select a password for secure your wallet (min: %r characters):"}
+{"language_name": "US", "language_event_enumeration_name": "password_first_initialization_error_title_text", "language_event_content_text": "Error on the Password."}
+{"language_name": "US", "language_event_enumeration_name": "password_first_initialization_error_content_text", "language_event_content_text": "Error on the selected password, the number of characters on the password should be equal or higher of %r password."}
+{"language_name": "US", "language_event_enumeration_name": "password_first_initialization_create_wallet_error_title_text", "language_event_content_text": "Error the password can't be empty."}
+{"language_name": "US", "language_event_enumeration_name": "password_first_initialization_create_wallet_error_content_text", "language_event_content_text": "Error the password can't be empty, the number of characters on the password should be equal or higher of %r password."}
+{"language_name": "US", "language_event_enumeration_name": "custom_message_box_wait_moment", "language_event_content_text": "Please wait a moment.."}
+{"language_name": "US", "language_event_enumeration_name": "create_wallet_error_title_text", "language_event_content_text": "Error on create a wallet."}
+{"language_name": "US", "language_event_enumeration_name": "create_wallet_error_content_text", "language_event_content_text": "please check your network connection or try again later.\nContact the support if the problem persist."}
+{"language_name": "US", "language_event_enumeration_name": "create_wallet_busy_title_text", "language_event_content_text": "On pending to create a wallet."}
+{"language_name": "US", "language_event_enumeration_name": "create_wallet_busy_content_text", "language_event_content_text": "The android wallet is currently on pending to create a wallet, please wait a moment."}
+{"language_name": "US", "language_event_enumeration_name": "create_wallet_success_title_text", "language_event_content_text": "Wallet created."}
+{"language_name": "US", "language_event_enumeration_name": "create_wallet_success_content_text", "language_event_content_text": "Your new wallet has been created successfully.\nWallet Address: "}
+{"language_name": "US", "language_event_enumeration_name": "password_open_wallet_title_text", "language_event_content_text": "Password of your wallet file."}
+{"language_name": "US", "language_event_enumeration_name": "password_open_wallet_content_text", "language_event_content_text": "Write the password of your wallet file:"}
+{"language_name": "US", "language_event_enumeration_name": "password_open_wallet_error_title_text", "language_event_content_text": "Wrong password."}
+{"language_name": "US", "language_event_enumeration_name": "password_open_wallet_error_content_text", "language_event_content_text": "The input password seems to be wrong. Please write the good password."}
+{"language_name": "US", "language_event_enumeration_name": "password_open_wallet_success_title_text", "language_event_content_text": "Wallet password good."}
+{"language_name": "US", "language_event_enumeration_name": "password_open_wallet_success_content_text", "language_event_content_text": "Wallet file loaded successfully."}
+{"language_name": "US", "language_event_enumeration_name": "current_wallet_active_balance", "language_event_content_text": "Balance: %r"}
+{"language_name": "US", "language_event_enumeration_name": "current_wallet_pending_balance", "language_event_content_text": "Pending: %r"}
+{"language_name": "US", "language_event_enumeration_name": "visit_official_website_title_text", "language_event_content_text": "Visit the official website."}
+{"language_name": "US", "language_event_enumeration_name": "visit_official_website_content_text", "language_event_content_text": "To browse the official website, a webpage will be opened.\nDo you want to continue?"}
+{"language_name": "US", "language_event_enumeration_name": "message_box_dialog_choose_ok", "language_event_content_text": "Ok"}
+{"language_name": "US", "language_event_enumeration_name": "message_box_dialog_choose_cancel", "language_event_content_text": "Cancel"}
+{"language_name": "US", "language_event_enumeration_name": "message_box_dialog_choose_yes", "language_event_content_text": "Yes"}
+{"language_name": "US", "language_event_enumeration_name": "message_box_dialog_choose_no", "language_event_content_text": "No"}
+{"language_name": "US", "language_event_enumeration_name": "show_wallet_address_title_text", "language_event_content_text": "Your wallet address:"}
+{"language_name": "US", "language_event_enumeration_name": "show_wallet_address_content_text", "language_event_content_text": "%r \nDo you want to copy it to your clipboard?"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_select_wallet_address_target_title_text", "language_event_content_text": "Wallet Address target:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_select_wallet_address_target_content_text", "language_event_content_text": "Input the wallet address to target:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_select_wallet_address_target_error_title_text", "language_event_content_text": "Wrong Wallet Address target:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_select_wallet_address_target_error_content_text", "language_event_content_text": "The wallet address target seems to wrong, Do you want to try again?"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_amount_title_text", "language_event_content_text": "Amount:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_amount_content_text", "language_event_content_text": "Please input the amount to send to your target.\nYour current balance is %a %r:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_amount_error_title_text", "language_event_content_text": "Input amount is wrong:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_amount_error_content_text", "language_event_content_text": "The input amount is wrong or exceed your total balance, please try again."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_fee_title_text", "language_event_content_text": "Fee:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_fee_content_text", "language_event_content_text": "Please input the fee to send to your target.\nYour current balance is %a %r:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_fee_error_title_text", "language_event_content_text": "Input fee is wrong:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_fee_error_content_text", "language_event_content_text": "The input fee is wrong or exceed your total balance, please try again."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_mandatory_fee_error_title_text", "language_event_content_text": "Input fee less than the minimum:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_mandatory_fee_error_content_text", "language_event_content_text": "The input fee is less than the minimum of %f %r. Do you want to input another one?"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_push_title_text", "language_event_content_text": "Confirm your request of transaction:"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_push_content_text", "language_event_content_text": "Are you sure to send a transaction to your target %r \nWith an amount of %a and selected fee of %f"}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_result_refused_title_text", "language_event_content_text": "Transaction refused."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_result_busy_title_text", "language_event_content_text": "Your wallet is busy."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_result_invalid_target_title_text", "language_event_content_text": "Invalid target address."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_result_accepted_title_text", "language_event_content_text": "Transaction accepted."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_result_refused_content_text", "language_event_content_text": "Your attempt to send a transaction has been refused."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_result_busy_content_text", "language_event_content_text": "It seems your wallet is busy, please try again later."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_result_invalid_target_content_text", "language_event_content_text": "The wallet address target %r\nis invalid."}
+{"language_name": "US", "language_event_enumeration_name": "send_transaction_result_accepted_content_text", "language_event_content_text": "Your transaction has been accepted.\nHash: %r"}
+{"language_name": "US", "language_event_enumeration_name": "transaction_history_received_content_text", "language_event_content_text": "Received from: "}
+{"language_name": "US", "language_event_enumeration_name": "transaction_history_send_content_text", "language_event_content_text": "Sent to: "}
+{"language_name": "US", "language_event_enumeration_name": "loading_text_menu_content_text", "language_event_content_text": "Loading, please wait a moment.."}

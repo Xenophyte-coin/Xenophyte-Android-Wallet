@@ -1,0 +1,25 @@
+﻿// & create a new line.
+{"language_name": "EN", "language_graphic_name": "none", "language_content": "English", "percent_position_x": 0, "percent_position_y": 0}
+{"language_name": "EN", "language_graphic_name": "big-text-welcome", "language_content": "Welcome to Xenophyte Android Wallet.&For the first startup, please write a password &to protect the access of your wallets.&Then by security we suggest to make &a backup of your wallet file, to your computer. &If you format your phone or delete &the wallet file, you can't recover it without &a backup of this one. &Visit our website to get more informations &and help about that.", "percent_position_x": 2.5, "percent_position_y": 5}
+{"language_name": "EN", "language_graphic_name": "button-welcome-create-wallet", "language_content": "OK", "percent_position_x": 40, "percent_position_y": 40}
+{"language_name": "EN", "language_graphic_name": "button-send-transaction", "language_content":  "Send Transaction", "percent_position_x": 30, "percent_position_y": 40}
+{"language_name": "EN", "language_graphic_name": "button-transaction-history", "language_content":  "Transaction History", "percent_position_x": 27.5, "percent_position_y": 40}
+{"language_name": "EN", "language_graphic_name": "button-official-website", "language_content":  "Official Website", "percent_position_x": 32.5, "percent_position_y": 40}
+{"language_name": "EN", "language_graphic_name": "button-exchange-list", "language_content":  "Exchange List", "percent_position_x": 33.5, "percent_position_y": 40}
+{"language_name": "EN", "language_graphic_name": "big-text-menu-password", "language_content": "Welcome to Xenophyte Android Wallet.&Please write the wallet password to open this one.", "percent_position_x": 2.5, "percent_position_y": 5}
+{"language_name": "EN", "language_graphic_name": "button-menu-password-open-wallet", "language_content": "OK", "percent_position_x": 42.5, "percent_position_y": 35}
+{"language_name": "EN", "language_graphic_name": "button-show-wallet-address", "language_content":  "Show Wallet Address", "percent_position_x": 9, "percent_position_y": 35.5}
+{"language_name": "EN", "language_graphic_name": "button-return-to-main-send-transaction", "language_content":  "<", "percent_position_x": 25, "percent_position_y": 28.5}
+{"language_name": "EN", "language_graphic_name": "button-show-wallet-address-send-transaction", "language_content":  "Show Wallet Address", "percent_position_x": 9, "percent_position_y": 35.5}
+{"language_name": "EN", "language_graphic_name": "big-text-target-text-send-transaction", "language_content":  "Wallet Address target:", "percent_position_x": 9, "percent_position_y": 30}
+{"language_name": "EN", "language_graphic_name": "button-scan-qr-code-send-transaction", "language_content":  "Scan QR Code", "percent_position_x": 9, "percent_position_y": 30}
+{"language_name": "EN", "language_graphic_name": "big-text-amount-text-send-transaction", "language_content":  "Amount to send:", "percent_position_x": 9, "percent_position_y": 30}
+{"language_name": "EN", "language_graphic_name": "big-text-fee-text-send-transaction", "language_content":  "Fee to use:", "percent_position_x": 9, "percent_position_y": 30}
+{"language_name": "EN", "language_graphic_name": "button-push-transaction-send-transaction", "language_content":  "Send Transaction", "percent_position_x": 9, "percent_position_y": 32.5}
+{"language_name": "EN", "language_graphic_name": "button-return-to-main-transaction-history", "language_content":  "<", "percent_position_x": 25, "percent_position_y": 28.5}
+{"language_name": "EN", "language_graphic_name": "button-return-to-main-exchange-menu", "language_content":  "<", "percent_position_x": 25, "percent_position_y": 28.5}
+{"language_name": "EN", "language_graphic_name": "button-show-birake", "language_content": "Birake", "percent_position_x": 9, "percent_position_y": 35.5 }
+{"language_name": "EN", "language_graphic_name": "button-show-xeggex", "language_content": "Xeggex", "percent_position_x": 9, "percent_position_y": 50.5 }
+{"language_name": "EN", "language_graphic_name": "button-show-caldera", "language_content": "Caldera", "percent_position_x": 9, "percent_position_y": 70.5 }
+{"language_name": "EN", "language_graphic_name": "button-previous-page-transaction-history", "language_content":  "<", "percent_position_x": 25, "percent_position_y": 28.5}
+{"language_name": "EN", "language_graphic_name": "button-next-page-transaction-history", "language_content":  ">", "percent_position_x": 25, "percent_position_y": 28.5}

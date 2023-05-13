@@ -1,0 +1,25 @@
+﻿// & create a new line.
+{"language_name": "FR", "language_graphic_name": "none", "language_content": "Français", "percent_position_x": 0, "percent_position_y": 0}
+{"language_name": "FR", "language_graphic_name": "big-text-welcome", "language_content": "Bienvenue sur votre portefeuille Android Xenophyte.&Veuillez saisir un mot de passe à retenir pour protéger celui-ci.&Par sécurité, nous vous suggérons si vous en avez la possibilité& d'en faire une copie sur votre ordinateur.", "percent_position_x": 2.5, "percent_position_y": 5}
+{"language_name": "FR", "language_graphic_name": "button-welcome-create-wallet", "language_content": "OK", "percent_position_x": 40, "percent_position_y": 40}
+{"language_name": "FR", "language_graphic_name": "button-send-transaction", "language_content":  "Envoyer une transaction", "percent_position_x": 30, "percent_position_y": 40}
+{"language_name": "FR", "language_graphic_name": "button-transaction-history", "language_content":  "Historique de transaction", "percent_position_x": 27.5, "percent_position_y": 40}
+{"language_name": "FR", "language_graphic_name": "button-official-website", "language_content":  "Site officiel", "percent_position_x": 32.5, "percent_position_y": 40}
+{"language_name": "FR", "language_graphic_name": "button-exchange-list", "language_content":  "Liste des Exchanges", "percent_position_x": 33.5, "percent_position_y": 40}
+{"language_name": "FR", "language_graphic_name": "big-text-menu-password", "language_content": "Bienvenue sur votre portefeuille Android Xenophyte.&Merci d'écrire le mot de passe de celui-ci afin d'y&accéder.", "percent_position_x": 2.5, "percent_position_y": 5}
+{"language_name": "FR", "language_graphic_name": "button-menu-password-open-wallet", "language_content": "OK", "percent_position_x": 42.5, "percent_position_y": 35}
+{"language_name": "FR", "language_graphic_name": "button-show-wallet-address", "language_content":  "Afficher Adresse", "percent_position_x": 9, "percent_position_y": 35.5}
+{"language_name": "FR", "language_graphic_name": "button-return-to-main-send-transaction", "language_content":  "<", "percent_position_x": 25, "percent_position_y": 28.5}
+{"language_name": "FR", "language_graphic_name": "button-show-wallet-address-send-transaction", "language_content":  "Afficher Adresse", "percent_position_x": 9, "percent_position_y": 35.5}
+{"language_name": "FR", "language_graphic_name": "big-text-target-text-send-transaction", "language_content":  "Adresse cible:", "percent_position_x": 9, "percent_position_y": 30}
+{"language_name": "FR", "language_graphic_name": "button-scan-qr-code-send-transaction", "language_content":  "Scan QR Code", "percent_position_x": 9, "percent_position_y": 30}
+{"language_name": "FR", "language_graphic_name": "big-text-amount-text-send-transaction", "language_content":  "Montant à envoyer:", "percent_position_x": 9, "percent_position_y": 30}
+{"language_name": "FR", "language_graphic_name": "big-text-fee-text-send-transaction", "language_content":  "Taxe à utiliser:", "percent_position_x": 9, "percent_position_y": 30}
+{"language_name": "FR", "language_graphic_name": "button-push-transaction-send-transaction", "language_content":  "Envoyer une transaction", "percent_position_x": 9, "percent_position_y": 32.5}
+{"language_name": "FR", "language_graphic_name": "button-return-to-main-transaction-history", "language_content":  "<", "percent_position_x": 25, "percent_position_y": 28.5}
+{"language_name": "FR", "language_graphic_name": "button-return-to-main-exchange-menu", "language_content":  "<", "percent_position_x": 25, "percent_position_y": 28.5}
+{"language_name": "FR", "language_graphic_name": "button-show-birake", "language_content": "Birake", "percent_position_x": 9, "percent_position_y": 35.5 }
+{"language_name": "FR", "language_graphic_name": "button-show-xeggex", "language_content": "Xeggex", "percent_position_x": 9, "percent_position_y": 50.5 }
+{"language_name": "FR", "language_graphic_name": "button-show-caldera", "language_content": "Caldera", "percent_position_x": 9, "percent_position_y": 70.5 }
+{"language_name": "FR", "language_graphic_name": "button-previous-page-transaction-history", "language_content":  "<", "percent_position_x": 25, "percent_position_y": 28.5}
+{"language_name": "FR", "language_graphic_name": "button-next-page-transaction-history", "language_content":  ">", "percent_position_x": 25, "percent_position_y": 28.5}
